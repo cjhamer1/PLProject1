@@ -1,4 +1,4 @@
-package cannata.Customer;
+package hamer.customer;
 
 import java.util.Scanner;
 

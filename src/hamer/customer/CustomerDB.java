@@ -1,4 +1,4 @@
-package cannata.Customer;
+package hamer.customer;
 
 public class CustomerDB {
 
